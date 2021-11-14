@@ -26,7 +26,7 @@ In particular:
 Please note: this project used a Windows 7 computer, and other systems have not been tested.
 
 ### Editing the PCB
-KiCad is a free open-source electronic CAD suite which was used to create this Kilobot version. It is not required to access the gerber files, but if you wish to make changes to the design, it is available from [KiCad EDA](http://kicad-pcb.org/). 
+KiCad is a free open-source electronic CAD suite which was used to create this Kilobot version. It is not required to access the gerber files, but if you wish to make changes to the design, it is available from [KiCad EDA](http://kicad.org/). 
 
 The archived project file can be imported using the "Unarchive project.." option. This should be done with the included .zip file, not by unzipping it first. The included Kilobot.lib is required for certain symbols and footprints, and must be added using the process described here: ["[library tables] are found in the preferences menu of all KiCad subprogramms (preference -> Manage symbol/footprint libraries.)"](https://forum.kicad.info/t/library-management-in-kicad-version-5/14636).
 
@@ -57,5 +57,5 @@ Jamie Trump - Postgraduate Student at University of Plymouth, UK
 ### Software
 
 * [KiloGUI](https://github.com/acornejo/kilogui)
-* [KiCad EDA](http://kicad-pcb.org/)
+* [KiCad EDA](http://kicad.org/)
 * [freeRouting](https://freerouting.org/)
